@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093543289402",
+    "firebase_url": "https://sdbmattluis.firebaseio.com",
+    "project_id": "sdbmattluis",
+    "storage_bucket": "sdbmattluis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093543289402:android:742a0e9610d48122",
+        "android_client_info": {
+          "package_name": "com.example.agape.sdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093543289402-f8pipv2lm23c68sl5hg8e48s11rogfd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agape.sdb",
+            "certificate_hash": "20c96345ec0213c7e2b20c86cab6d29e5754f8b1"
+          }
+        },
+        {
+          "client_id": "1093543289402-nqpanm14sjf7rgr8sn6at1bm2cod4bo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qFEQcdCPEdvb__CinUn8rNdi0X5DReQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093543289402-nqpanm14sjf7rgr8sn6at1bm2cod4bo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
